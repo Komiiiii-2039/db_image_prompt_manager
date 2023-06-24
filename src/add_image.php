@@ -30,7 +30,7 @@ if($_FILES['data']['tmp_name'] == ""){
 }
 $check = getimagesize($_FILES["data"]["tmp_name"]);
 if(!$check) {
-    mysqli->query("rollback");
+    $mysqli->query("rollback");
     sendResponse("error", "File is not an image.");
     // die("File is not an image.");
 }
@@ -148,7 +148,7 @@ if($positivePromptID == -1 && $negativePromptID == -1){
 } else {
     // Move file to img folder
     if (!move_uploaded_file($_FILES["data"]["tmp_name"], $target_file)) {
-        mysqli->query("rollback");
+        $mysqli->query("rollback");
         //die("Failed to upload image.");
         sendResponse("error", "Failed to upload image.");
     }

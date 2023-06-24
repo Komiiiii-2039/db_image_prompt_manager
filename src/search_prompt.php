@@ -60,10 +60,10 @@
 </head>
 <body>
 <?php
-	$servername = "db";
-	$username = "s2313830";
-	$password = "utaha";
-	$dbname = "s2313830";
+	$servername = "";
+	$username = "";
+	$password = "";
+	$dbname = "";
 
 	// Create connection
 	$mysqli = new mysqli($servername, $username, $password, $dbname);

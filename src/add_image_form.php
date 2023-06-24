@@ -302,7 +302,7 @@
             },
             error: function(response) {
                 // Handle error here
-                alert('An error occurred while uploading the image');
+                alert('An error occurred while uploading the image.' + JSON.parse(response).message);
             },
         });
     });
