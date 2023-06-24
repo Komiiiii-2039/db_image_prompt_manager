@@ -1,0 +1,25 @@
+version: '3.1'
+services:
+  db:
+    image: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: database
+      MYSQL_USER: user 
+      MYSQL_PASSWORD: password
+    volumes:
+      - db_data:/var/lib/mysql
+      - ./schema:/schema
+      - ./my.cnf:/etc/mysql/conf.d/my.cnf
+  web:
+    build: .
+    depends_on:
+      - db
+    volumes:
+      - ./src:/var/www/html
+    ports:
+      - 8080:80
+    environment:
+      APP_ENV: development
+volumes:
+  db_data:

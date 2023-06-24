@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f3;
+    color: #333;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+    color: #5d5ca5;
+}
+form {
+    background: #7f7fb5;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    margin: 0 auto;
+    max-width: 90%;
+    box-sizing: border-box; /* Fix for the input overflow issue */
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+textarea, input[type=text] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: none;
+    box-sizing: border-box; /* Fix for the input overflow issue */
+}
+input[type=submit] {
+    background-color: #5d5ca5;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.add-image-button {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    padding: 10px 20px;
+    background-color: #5d5ca5;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.add-image-button:hover {
+    background-color: #3b3b82;
+}

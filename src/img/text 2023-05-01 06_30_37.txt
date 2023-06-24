@@ -1,0 +1,73 @@
+parameters
+hiten1, 1girl in the snow, (japanese red kinomo), white snow Negative prompt: EasyNegative Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 912820441, Size: 768x512, Model hash: b2abd90627, Model: bettermixanime
+exif comment
+hiten1, 1girl in the snow, (japanese red kinomo), white snow Negative prompt: EasyNegative Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 912820441, Size: 768x512, Model hash: b2abd90627, Model: bettermixanime
+
+￼
+
+parameters
+hiten1, 2girl in the snow, yuri, (japanese red kinomo:1.2), white snow, red eyes, holding hands Negative prompt: EasyNegative Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1902502649, Size: 768x512, Model hash: b2abd90627, Model: bettermixanime
+exif comment
+hiten1, 2girl in the snow, yuri, (japanese red kinomo:1.2), white snow, red eyes, holding hands Negative prompt: EasyNegative Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1902502649, Size: 768x512, Model hash: b2abd90627, Model: bettermixanime
+
+￼
+
+parameters
+1girl, masterpiece, best quality, pink hair, beige cardigan, white corre shirt, pink striped skirt, black tights, (white background), simple background, setting Negative prompt: (worst quality:2, low quality:2), (zombie, sketch, interlocked fingers, comic) Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 3241128577, Size: 512x768, Model hash: b2abd90627, Model: bettermixanime
+exif comment
+1girl, masterpiece, best quality, pink hair, beige cardigan, white corre shirt, pink striped skirt, black tights, (white background), simple background, setting Negative prompt: (worst quality:2, low quality:2), (zombie, sketch, interlocked fingers, comic) Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 3241128577, Size: 512x768, Model hash: b2abd90627, Model: bettermixanime
+
+￼
+
+parameters
+1girl, masterpiece, best quality, pink hair, beige cardigan, white shirt, pink striped skirt, black tights, white background Negative prompt: ribbon, tie, (worst quality:2, low quality:2), (zombie, sketch, interlocked fingers, comic) Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 1226948625, Size: 512x768, Model hash: eac6c08a19, Model: meinamix_meinaV9
+exif comment
+1girl, masterpiece, best quality, pink hair, beige cardigan, white shirt, pink striped skirt, black tights, white background Negative prompt: ribbon, tie, (worst quality:2, low quality:2), (zombie, sketch, interlocked fingers, comic) Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 1226948625, Size: 512x768, Model hash: eac6c08a19, Model: meinamix_meinaV9
+
+￼
+parameters
+1girl, pink hair, red eyes, school uniform Negative prompt: easynegative Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 572860157, Size: 768x768, Model hash: eac6c08a19, Model: meinamix_meinaV9
+exif comment
+1girl, pink hair, red eyes, school uniform Negative prompt: easynegative Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 572860157, Size: 768x768, Model hash: eac6c08a19, Model: meinamix_
+￼
+
+
+parameters
+1girl, school uniform, spring, (cheery blossoms) , best quality, higher detailed Negative prompt: easynegative Steps: 30, Sampler: DPM++ SDE Karras, CFG scale: 7, Seed: 2095318777, Size: 768x512, Model hash: eac6c08a19, Model: meinamix_meinaV9
+exif comment
+1girl, school uniform, spring, (cheery blossoms) , best quality, higher detailed Negative prompt: easynegative Steps: 30, Sampler: DPM++ SDE Karras, CFG scale: 7, Seed: 2095318777, Size: 768x512, Model hash: eac6c08a19, Model: meinamix_meinaV9
+
+￼
+
+parameters
+1girl, casual dress and T-shirt, yuri , spring, (cheery blossoms) , best quality, higher detailed Negative prompt: easynegative Steps: 30, Sampler: DPM++ SDE Karras, CFG scale: 7, Seed: 4098579735, Size: 768x512, Model hash: eac6c08a19, Model: meinamix_meinaV9
+exif comment
+1girl, casual dress and T-shirt, yuri , spring, (cheery blossoms) , best quality, higher detailed Negative prompt: easynegative Steps: 30, Sampler: DPM++ SDE Karras, CFG scale: 7, Seed: 4098579735, Size: 768x512, Model hash: eac6c08a19, Model: meinamix_meinaV9
+
+￼
+
+parameters
+Create a captivating image of a girl with shimmering pink, inwardly curled bob cut hair, standing on a school rooftop at night. She is wearing a stylish outfit, and her eyes are filled with wonder as she gazes at the breathtaking fireworks display in the starry night sky, with the city skyline in the background Negative prompt: easynegative Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 7, Seed: 2457206154, Face restoration: CodeFormer, Size: 512x768, Model hash: eac6c08a19, Model: meinamix_meinaV9, Clip skip: 8
+exif comment
+Create a captivating image of a girl with shimmering pink, inwardly curled bob cut hair, standing on a school rooftop at night. She is wearing a stylish outfit, and her eyes are filled with wonder as she gazes at the breathtaking fireworks display in the starry night sky, with the city skyline in the background Negative prompt: easynegative Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 7, Seed: 2457206154, Face restoration: CodeFormer, Size: 512x768, Model hash: eac6c08a19, Model: meinamix_meinaV9, Clip skip: 8
+
+￼
+
+parameters
+Hatsune Miku Negative prompt: easynegative Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 7, Seed: 1219934373, Size: 512x768, Model hash: 31c9be0ee8, Model: Defmix-v2.0, Clip skip: 2, ControlNet Enabled: True, ControlNet Module: openpose_full, ControlNet Model: control_v11p_sd15_openpose [cab727d4], ControlNet Weight: 1, ControlNet Guidance Start: 0, ControlNet Guidance End: 1
+exif comment
+Hatsune Miku Negative prompt: easynegative Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 7, Seed: 1219934373, Size: 512x768, Model hash: 31c9be0ee8, Model: Defmix-v2.0, Clip skip: 2, ControlNet Enabled: True, ControlNet Module: openpose_full, ControlNet Model: control_v11p_sd15_openpose [cab727d4], ControlNet Weight: 1, ControlNet Guidance Start: 0, ControlNet Guidance End: 1
+
+￼
+
+parameters
+the martian with dog, ground, jumping Negative prompt: universe Steps: 30, Sampler: Euler a, CFG scale: 7, Seed: 3493606179, Size: 768x768, Model hash: c6fe5d4a3e, Model: realisticVisionV20_v20, Clip skip: 2
+exif comment
+the martian with dog, ground, jumping Negative prompt: universe Steps: 30, Sampler: Euler a, CFG scale: 7, Seed: 3493606179, Size: 768x768, Model hash: c6fe5d4a3e, Model: realisticVisionV20_v20, Clip skip: 2
+
+￼
+
+parameters
+cat on the mars, ground, jumping Negative prompt: universe Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 4042763480, Size: 768x768, Model hash: c6fe5d4a3e, Model: realisticVisionV20_v20, Clip skip: 2
+exif comment
+cat on the mars, ground, jumping Negative prompt: universe Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 4042763480, Size: 768x768, Model hash: c6fe5d4a3e, Model: realisticVisionV20_v20, Clip skip: 2
